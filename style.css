@@ -1,6 +1,7 @@
 body{
     margin: 0%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 100vh;
 }
 .ma{
     color: rgb(238, 82, 9);
@@ -41,7 +42,7 @@ header{
     padding: 10px;
     margin-left: 60%;
     position:absolute;
-    border-radius: 50%;;
+    border-radius: 30%;
 }
 .face{
     padding: 80px;
